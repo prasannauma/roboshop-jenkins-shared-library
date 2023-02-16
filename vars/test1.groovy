@@ -1,3 +1,6 @@
 def new1() {
-    print ('dont trouble the trouble')
+   def abc = "hello"
+    print "abc = ${abc}"
+    print "xyz = ${xyz}"
+
 }
